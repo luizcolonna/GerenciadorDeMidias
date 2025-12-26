@@ -108,3 +108,8 @@ src/
       ├── java/            # Servlets e classes de modelo (Lógica)
       └── webapp/          # Arquivos JSP e CSS (Interface)
            └── WEB-INF/    # Arquivos de configuração e bibliotecas (lib)
+
+---
+
+📝 Autor
+Desenvolvido por Luiz Colonna.
